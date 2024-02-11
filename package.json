@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/maeotsup/pedromobiles#readme",
   "devDependencies": {
+    "@types/dotenv": "^8.2.0",
     "@types/express": "^4.17.21",
+    "@types/sequelize": "^4.28.20",
     "typescript": "^5.3.3"
   },
   "dependencies": {
